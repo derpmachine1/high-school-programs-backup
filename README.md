@@ -1,2 +1,3 @@
 # high-school-backup
-A collection of high school programs that I kept for personal backup/nostalgia reasons. All audio and image files have also been replaced with blank files.
+
+A collection of stuff from high school that I've kept for personal backup/nostalgia purposes. All audio and image files have been replaced with blank files.
